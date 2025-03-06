@@ -1,0 +1,2 @@
+Patient;Gene;Jonction;Type;Score;FC;Percentage_Skipping_or_Drop_Code;Percentage_of_Internal_Junction_inf_q25;UMI_Count;Mean_UMI;Tot_UMI;Mean_Tot_UMI
+5171;None;None;No_Alarm;.;;;;.;.;;
